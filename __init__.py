@@ -1,0 +1,1 @@
+"""The OZO Waste component."""

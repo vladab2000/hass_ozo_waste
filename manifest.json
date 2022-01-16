@@ -1,0 +1,11 @@
+{
+  "domain": "waste",
+  "name": "Waste",
+  "documentation": "",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@bart"
+  ],
+  "version": "0.0.0"
+}
